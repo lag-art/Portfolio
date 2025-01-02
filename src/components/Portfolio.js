@@ -122,7 +122,7 @@ const Portfolio = () => {
         <footer className="bg-black py-6">
           <div className="text-center">
             <div className="flex justify-center space-x-4 text-2xl mb-4">
-              <a href="https://github.com/asklagat" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+              <a href="https://github.com/lag-art" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
                 <FaGithub />
               </a>
               <a href="https://www.linkedin.com/in/kevin-lagat-4996a0278/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
