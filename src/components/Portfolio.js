@@ -138,7 +138,7 @@ const Portfolio = () => {
                 <FaWhatsappSquare />
               </a>
             </div>
-            <p className="text-gray-400 text-sm">&copy; 2024 Kevin Lagat. All Rights Reserved.</p>
+            <p className="text-gray-400 text-sm">&copy; 2025 Kevin Lagat. All Rights Reserved.</p>
           </div>
         </footer>
       </div>
