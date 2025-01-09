@@ -15,7 +15,7 @@ const Resume = () => {
     <div className="bg-gray-900 text-white min-h-60 flex flex-col items-center justify-center">
       <h2 className="text-3xl font-bold mb-6">Resume</h2>
       <p className="text-gray-300 text-sm mb-6">
-        Click the button below to download my resume.
+        Click the button below to download my resume. 
       </p>
       <button
         onClick={handleDownload}
