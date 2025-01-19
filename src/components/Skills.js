@@ -12,7 +12,7 @@ const skillsData = [
   {
     name: 'JavaScript',
     description:
-      'Create dynamic user interfaces, handle user input, and manipulate the Document Object Model (DOM) to enhance website interactivity.',
+      'Creating dynamic user interfaces, handle user input, and manipulate the Document Object Model (DOM) to enhance website interactivity.',
     image: JavascriptImage,
   },
   {
